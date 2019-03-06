@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TouristAttractions">Attractions</string>
+    <string name="Hotels">Hotels</string>
+    <string name="Museums">Museums</string>
+    <string name="FourSeasonsHotel">Four Seasons Hotel</string>
+    <string name="KempinskiNileHotel">Kempinski Nile Hotel</string>
+    <string name="RixosSeagate">Rixos Seagate</string>
+    <string name="AlexandriaatSanStefano">Alexandria at San Stefano</string>
+    <string name="GardenCityCairo">Garden City Cairo</string>
+    <string name="CopticMuseum">CopticMuseum</string>
+    <string name="SayedahZeinab">"Sayedah Zeinab"</string>
+    <string name="MuseumofIslamicArt">Museum of Islamic Art</string>
+    <string name="MisrlQadimah">Misr Al Qadimah</string>
+    <string name="AlHaram">Al Haram, Giza</string>
+    <string name="TablaLuna">Tabla Luna</string>
+    <string name="ABOUELSID">ABOU EL SID</string>
+    <string name="OakGrill">Oak Grill</string>
+    <string name="Karnak">Karnak</string>
+    <string name="GreatSphinxofGiza">Great Sphinx of Giza</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="shram">shram al shiek</string>
+    <string name="Giza">Giza</string>
+    <string name="cairo">Cairo</string>
+    <string name="AbuSimbeltemples">Abu Simbel temples</string>
+
+</resources>
